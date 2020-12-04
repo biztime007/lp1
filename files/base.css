@@ -101,6 +101,9 @@ blockquote {
     text-decoration: none;
 	transform: translate(100%, 0%);
 }
+.text-center {
+  text-align: center;
+}
 a {
 	color: #ffffff;
 }
