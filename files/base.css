@@ -79,7 +79,7 @@ blockquote {
 
 /*---------------------------------------- LINKS & BUTTONS ----------------------------------------*/
 .headerCallCta.orange {
-    display: block;
+    display: inline-table;
     font-size: 1.25em;
     font-weight: 700;
     line-height: 1.5em;
