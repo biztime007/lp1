@@ -81,20 +81,25 @@ blockquote {
 .headerCallCta.orange {
     display: block;
     font-size: 1.25em;
+    font-weight: 700;
     line-height: 1.5em;
-    background-color: #F27B30;
+    background-color: #7ac143;
     padding: 7px 15px;
     border-radius: 5px;
     background-image: url(icon-phone-WHITE_143x145-compressed.png);
     background-repeat: no-repeat;
-    background-size: 10px;
-    background-position: calc(50% - 65px) 12px;
+    background-size: 40px;
+    background-position: calc(34% - 60px) 25px;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
     padding: 15px 25px;
     text-transform: uppercase;
+	text-align: center;
+	color: #ffffff;
+    text-decoration: none;
+	transform: translate(100%, 0%);
 }
 a {
 	color: #ffffff;
